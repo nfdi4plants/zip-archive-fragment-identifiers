@@ -1,0 +1,7 @@
+{
+    "creators": [
+        {"name": "Schneider, Kevin", "affiliation": "RPTU Kaiserslautern-Landau", "orcid": "https://orcid.org/0000-0002-2198-5262"},
+        {"name": "Mühlhaus, Timo", "affiliation": "RPTU Kaiserslautern-Landau", "orcid": "https://orcid.org/0000-0003-3925-6778"}
+    ],
+    "keywords": ["zip", "fragment", "data fragment", "URI"]
+}
